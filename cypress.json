@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://oxstreet.com/",
+    "watchForFileChanges": false,
+    "integrationFolder": "cypress/tests",
+    "viewportHeight": 800,
+    "viewportWidth": 1200
+}

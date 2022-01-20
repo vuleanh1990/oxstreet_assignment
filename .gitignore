@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# misc
+cypress/videos
+cypress/screenshots
+
+# Ignore env local files
+.env*.local

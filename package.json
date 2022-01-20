@@ -1,0 +1,18 @@
+{
+  "name": "oxstreet_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anh Vu",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.10",
+    "cypress": "^9.3.1",
+    "cypress-xpath": "^1.6.2",
+    "eslint-plugin-cypress": "^2.12.1",
+    "typescript": "^4.5.4"
+  }
+}
