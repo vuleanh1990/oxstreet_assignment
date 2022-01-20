@@ -1,0 +1,5 @@
+{
+  "validUser": {"username": "taikoviet@gmail.com", "password": "Qwerty@1234", "name": "anh test"},
+  "invalidUser1": {"username": "taikoviet@gmail.com", "password": "Qwerty"},
+  "invalidUser2": {"username": "sdgsdg@yopmail.com", "password": "sdgassag"}
+}
